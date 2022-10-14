@@ -188,7 +188,7 @@ To use the sample code on this page, you'll need the following:
                    "TaskDefinition": {
                        "Ref": "TaskDefinition"
                    },
-                   "DesiredCount": 1,
+                   "DesiredCount": 0,
                    "LaunchType": "FARGATE",
                    "PlatformVersion": "1.3.0",
                    "NetworkConfiguration": {
